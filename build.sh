@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc -Wall -Wextra -o main main.c -lm
+clang -Wall -Wextra -o main main.c -lm
